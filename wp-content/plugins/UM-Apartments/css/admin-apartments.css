@@ -1,0 +1,62 @@
+Skip to content
+Features Business Explore Pricing
+This repository
+Search
+Sign in or Sign up
+ Watch 9  Star 23  Fork 18 Develop-With-WP/wp-job-listing
+ Code  Issues 2  Pull requests 0  Projects 0  Pulse  Graphs
+Branch: master Find file Copy pathwp-job-listing/css/admin-jobs.css
+5fe1101  on 13 Jul 2015
+@mrbobbybryant mrbobbybryant initial commit
+1 contributor
+RawBlameHistory
+46 lines (43 sloc)  765 Bytes
+/*Settings page styles.*/
+#custom-type-list { margin: 20px 0; }
+#custom-type-list li {
+	border: 1px solid #ddd;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	background-color:#f7f7f7;
+	max-width: 400px;
+	padding: 10px;
+	cursor: move;
+}
+#loading-animation { display: none; }
+
+/* Field styles */
+.meta-row {
+	border-bottom: 1px solid #e9e9e9;
+	padding: 20px;
+}
+.meta-th {
+	display: inline-block;
+	float: left;
+	width: 25%;
+	font-weight: bold;
+}
+.meta-tr {
+	display: inline-block;
+	float: right;
+	width: 75%;
+}
+.meta {
+	margin-top: 20px;
+}
+.dwwp-textarea {
+	height: 100px;
+	width: 75%;
+}
+.quicktags-toolbar {
+	margin-bottom: 5px;
+	display: inline-block;
+	float: left;
+	background: #ffffff !important;
+	border-bottom: none !important;
+}
+
+
+
+Contact GitHub API Training Shop Blog About
+© 2017 GitHub, Inc. Terms Privacy Security Status Help
